@@ -831,6 +831,7 @@ Built using BiLSTM Deep Learning + Hybrid Threat Detection
 
 <p style="font-size:13px; color:#6B7280;">
 Detect • Analyze • Secure
+    
 </p>
 
 </div>
